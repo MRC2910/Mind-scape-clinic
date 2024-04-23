@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>
+            Final
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,200&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" rel="stylesheet">
+        <script src="https://use.fontawesome.com/f795d905c8.js"></script>
+    </head>
+    <body>
+        <section class="header">
+            <nav>
+                <a href="index.html"><img height="100px" width="90px"src="images/MENTAL LOGO.png" alt=""></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" aria-hidden="true" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="course.html.html">UNDERSTAND <br>MENTAL HEALTH</a></li>
+                        <li><a href="blog.html.html">SUPPORT <br> YOURSELF</a></li>
+                        <li><a href="contact.html.html">CONTACT</a></li>
+                        <li><a href="about.html.html">ABOUT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" aria-hidden="true" onclick="showMenu()"></i>
+            </nav>
+<div class="text-box">
+    <h1>MINDSCAPE CLINIC</h1>
+    <p>Strengtening minds, with care</p>
+    <a href="" class="hero-btn">Visit Us To Know More</a>
+</div>
+
+        </section>
+
+    
+
+    <section class="course">
+        <h1>Welcome to Mindscape Clinic!</h1> 
+        <p1>Mindscape Clinic, step into a healing world that values your holistic mental health and wellness. <br>
+            With care, we will assist you towards peace.</p1>
+
+        <div class="row">
+         <div class="course-col">
+                <h3>Track Record</h3>
+                <p>Established in 2000, the PULSE.<br>
+                serves 100,000 members with 5 Pulse<br>
+                    primary care, 1 Rehabilitation Center<br>
+                    and with 2 affliations in major hospital<br>
+                
+                </p>
+         </div>
+         <div class="course-col">
+                <h3>Wide Network</h3>
+            <p>We have 500 affliated doctors <br>
+                and specialist over the Philippines <br>
+                and affliated clinics where you can <br>
+                readily access our services
+            </p>
+         </div>
+        <div class="course-col">
+            <h3>Convenient Care</h3>
+            <p>Experienced the most grateful 
+                healthcare with digital tools 
+                and services.
+            </p>
+        </div>
+
+    </section>
+
+
+    </section>
+    <!-- ----- CONSULTAION -------->
+    <section class="CONSULTAION">
+        <h1>First time with Mindscape Clinic?</h1>
+        <p1>No problem! We'll show you how to start</p1>
+
+        <div class="row">
+            <div class="CONSULTAION-col">
+                <img src="images/CONSULTATION.jpg">
+                <h3>Consult with us</h3>
+                <p> Talk to the healthcare proffesionals 
+                    about your health concerns.
+
+                </p>
+            </div>
+            <div class="CONSULTAION-col">
+                <img src="images/PLAN.jpg">
+                <h3>Plan your visit</h3>
+                <p>Set a convenient time and choose
+                    the near facility at our locations
+                    nationwide.
+                </p>
+            </div>
+            <div class="CONSULTAION-col">
+                <img src="images/MANAGE.jpg">
+                <h3> Manage your record</h3>
+                <p>Access your plan of care 
+                    to your progress.
+                </p>
+            </div>
+        </div>
+
+    </section>
+
+    <!-------- testimonials -------->
+
+    <section class="testimonials">
+        <h1>Book your appointments now!</h1>
+        <p class="testimonials-p">We are open for comments and feedback.<br>
+        That will make our the places do better in the future.</p>
+
+        <div class="row">
+            <div class="testimonial-col">
+                <img src="images/user (1).jpg">
+                <div>
+                    <p>I'm surprised with this kind of paradise.<br>Even though I've seen
+                    this on the internet, <br>it is breath-taking to feel the place.
+                    </p>
+                    <h3>Ariana Grenade</h3>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                </div>
+            </div>
+            <div class="testimonial-col">
+                <img src="images/user (2).jpg">
+                <div>
+                    <p>The peopel here are very accomodating. Also,<br>
+                    the struggles are worth it, because we were able<br>
+                    to witness these kind of places.</p>
+                    <h3>Mark Zuckerber</h3>
+                      <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star-half-o" aria-hidden="true"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="cta">
+        <h1>Let's work together to create a happier<br> mental environment for fulfillment and mental health.</h1>
+        <a href="contact.html.html" class="hero-btn1">CONTACT US</a>
+    
+    </section>
+
+    <!-- --- Footer -------->
+
+    <section class="footer">
+        <h4>About Us</h4>
+        <p1>Greetings from Mindscape Clinic, the reliable source for mental health and well-being.<br> 
+            Mindscape Clinic was established in 2024, and this was created to support mental health <br>
+            by providing kind care and compassionate therapies. Our Mental Wellness and Clinic subsite <br>
+            offer a safe space to heal and grow. We help people overcome significant challenges, rely <br>
+            on a wide range of therapy, counseling, and treatment options with a team of expert professionals. <br>
+            Our work is focused on helping you, who experience anxiety, depression, and other social and <br>
+            mental health issues. At every step, in every way, we’re by your side as you navigate your path <br>
+             toward a healthier, happier life.
+             
+        </p1>
+        <div class="icons">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+            <i class="fa fa-pinterest" aria-hidden="true"></i>
+            <i class="fa fa-linkedin" aria-hidden="true"></i>
+        </div>
+        <p class="Footer-p">Made with  <i class="fa fa-heart-o" aria-hidden="true"></i> by Tech Republic</p>
+    </section>
+
+
+
+
+    <!--------JavaScript for Toggle Menu------->
+<script>
+
+    var navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+    function hideMenu(){
+        navLinks.style.right = "-200px"
+    }
+
+</script>
+
+
+
+
+    </body>
+</html>

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>
+            Final
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,200&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" rel="stylesheet">
+        <script src="https://use.fontawesome.com/f795d905c8.js"></script>
+    </head>
+    <body>
+        <section class="sub-header">
+            <nav>
+                <a href="index.html"><img height="100px" width="90px"src="images/MENTAL LOGO.png" alt=""></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" aria-hidden="true" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="course.html.html">UNDERSTAND <br> MENTAL HEALTH</a></li>
+                        <li><a href="blog.html.html">SUPPORT <br> YOURSELF</a></li>
+                        <li><a href="contact.html.html">CONTACT</a></li>
+                        <li><a href="about.html.html">ABOUT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" aria-hidden="true" onclick="showMenu()"></i>
+            </nav>
+            <h1>UNDERSTAND MENTAL HEALTH</h1>
+        </section>
+
+        <!--------- Course -------->
+        <section class="course">
+            <h1>The Science Behind Mental Health</h1>
+        <p1>Let's divert our way from misconception and misunderstanding.<br>
+             Have you ever wonder what is behind when we experience mental health problem?.</p1>
+
+        <div class="row">
+         <div class="course-col">
+                <h3>MYTHSBUSTERS</h3>
+                <p><b>Myth</b><br>
+                  Talking about suicide will encourage
+                  someone to attempt suicide<br><br>
+
+                <b>Facts</b><br>
+                  Talking abiut suicide drives communication.
+                  This allows them to share their feelings
+                  and fears, which encourages someone to
+                  live.
+                </p>
+                <p><b>Myth</b><br>
+                    If someone attempts suicide, they are
+                    just seeking attention.<br><br>
+   
+                 <b>Facts</b><br>
+                    Suicide attempts must be viewed as the 
+                    intent of the person to die. The attention
+                    that we give to them may save their lives.
+                </p>
+         </div>
+         <div class="course-col">
+                <h3>MYTHSBUSTERS</h3>
+                <p><b>Myth</b><br>
+                    A consultation  and therapy that comes from
+                    the profesionnal psychiatrist is the only
+                    effective intervention for suicide.<br><br>
+   
+                <b>Facts</b><br>
+                    All the people who interact with them can 
+                    help them by way of emotional support.
+                    The therapuetic interventions also rely heavily
+                    on the providing network.
+                </p>
+                <p><b>Myth</b><br>
+                    They are constantly considered suicidal as 
+                    they attempt to take their own life.<br><br>
+      
+                <b>Facts</b><br>
+                   Suicidal thoughts may rebound but they are not
+                   considered permanent and they can still continue
+                   their own life.
+                </p>
+            </div>
+        <div class="course-col">
+                    <h3>MYTHSBUSTERS</h3>
+                    <p><b>Myth</b><br>
+                        A consultation  and therapy that comes from
+                        the profesionnal psychiatrist is the only
+                        effective intervention for suicide.<br><br>
+       
+                    <b>Facts</b><br>
+                        All the people who interact with them can 
+                        help them by way of emotional support.
+                        The therapuetic interventions also rely heavily
+                        on the providing network.
+                    </p>
+                    <p><b>Myth</b><br>
+                        Many suicide attempts occur suddenly 
+                        and without any warning signs.<br><br>
+          
+                    <b>Facts</b><br>
+                      It is important to look out for warning signs.
+                      It can be a form of verbal or behavioral signs.
+                    </p>
+                    </div>
+        </div>
+        </div>
+        
+    
+        </section>
+
+         <!-- --- HOSPITAL -------->
+
+         <section class="HOSPITAL">
+            <h1>HOW CAN <br> STRESS MANIFEST</h1>
+       
+    
+            <div class="">
+                <div class="HOSPITAL-col">
+                    <img src="images/IDENTIFY STRESS.jpg">
+                    <p1> Photos by: MentalHealthPH on The World Health Organization’s new book on Coping with Stress
+                    </p1>
+                    <h3></h3>
+                    <p> 
+                    </p>
+                    </div>
+                </div>
+             
+            </div>
+    
+        </section>
+    
+        <section class="HOSPITAL">
+            <h1>HOW TO  <br> IDENTIFY PROBLEM</h1>
+           
+            <div class="HOSPITAL-col">
+                <img src="images/IDENTIFY PROBLEM.jpg">
+                <p1>Photos by: MentalHealthPH on The World Health Organization’s new book on Coping with Stress</p1>   
+            </div>
+
+        </section>
+
+
+    <!-- --- Footer -------->
+
+    <section class="footer">
+
+        <h4>About Us</h4>
+        <h4></h4>
+        <p1>Greetings from Mindscape Clinic, the reliable source for mental health and well-being.<br> 
+            Mindscape Clinic was established in 2024, and this was created to support mental health <br>
+            by providing kind care and compassionate therapies. Our Mental Wellness and Clinic subsite <br>
+            offer a safe space to heal and grow. We help people overcome significant challenges, rely <br>
+            on a wide range of therapy, counseling, and reatment options with a team of expert professionals. <br>
+            Our work is focused on helping you, who experience anxiety, depression, and other social and <br>
+            mental health issues. At every step, in every way, we’re by your side as you navigate your path <br>
+             toward a healthier, happier life.
+       </p1>
+        <div class="icons">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+            <i class="fa fa-pinterest" aria-hidden="true"></i>
+            <i class="fa fa-linkedin" aria-hidden="true"></i>
+        </div>
+        <p class="Footer-p">Made with  <i class="fa fa-heart-o" aria-hidden="true"></i>by Tech Republic</p>
+    </section>
+
+
+
+
+    <!--------JavaScript for Toggle Menu------->
+<script>
+
+    var navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+    function hideMenu(){
+        navLinks.style.right = "-200px"
+    }
+
+</script>
+
+
+
+
+    </body>
+</html>
